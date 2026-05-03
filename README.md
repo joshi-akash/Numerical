@@ -50,6 +50,3 @@ Each program will display iteration details (where applicable) and the final res
 ## Author
 Akash Joshi
 
-## License
-
-This project is for educational purposes.
